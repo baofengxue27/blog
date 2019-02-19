@@ -1,0 +1,5 @@
+@extends('layout/home/article')	
+
+
+
+
